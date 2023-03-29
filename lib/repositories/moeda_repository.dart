@@ -24,57 +24,57 @@ class MoedaRepository{
       sigla: 'SHI'),
     Moeda(
       icone: 'images/cripto1.png', 
-      nome: 'Moeda', 
+      nome: 'Moeda1', 
       preco: 9999.76, 
       sigla: 'TCT'),
     Moeda(
       icone: 'images/cripto2.png', 
-      nome: 'Moeda', 
+      nome: 'Moeda2', 
       preco: 9999.76, 
       sigla: 'TCT'),
     Moeda(
       icone: 'images/cripto3.png', 
-      nome: 'Moeda', 
+      nome: 'Moeda3', 
       preco: 9999.76, 
       sigla: 'TCT'),
     Moeda(
       icone: 'images/cripto4.png', 
-      nome: 'Moeda', 
+      nome: 'Moeda4', 
       preco: 9999.76, 
       sigla: 'TCT'),
     Moeda(
       icone: 'images/cripto5.png', 
-      nome: 'Moeda', 
+      nome: 'Moeda5', 
       preco: 9999.76, 
       sigla: 'TCT'),
     Moeda(
       icone: 'images/cripto6.png', 
-      nome: 'Moeda', 
+      nome: 'Moeda6', 
       preco: 9999.76, 
       sigla: 'TCT'),
     Moeda(
       icone: 'images/cripto7.png', 
-      nome: 'Moeda', 
+      nome: 'Moeda7', 
       preco: 9999.76, 
       sigla: 'TCT'),
     Moeda(
       icone: 'images/cripto8.png', 
-      nome: 'Moeda', 
+      nome: 'Moeda8', 
       preco: 9999.76, 
       sigla: 'TCT'),
     Moeda(
       icone: 'images/cripto9.png', 
-      nome: 'Moeda', 
+      nome: 'Moeda9', 
       preco: 9999.76, 
       sigla: 'TCT'),
     Moeda(
       icone: 'images/cripto10.png', 
-      nome: 'Moeda', 
+      nome: 'Moeda10', 
       preco: 9999.76, 
       sigla: 'TCT'),
     Moeda(
       icone: 'images/cripto11.png', 
-      nome: 'Moeda', 
+      nome: 'Moeda11', 
       preco: 9999.76, 
       sigla: 'TCT'),
   ];
